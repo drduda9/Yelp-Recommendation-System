@@ -1,0 +1,19 @@
+﻿attribute,type,value
+smoking,no,0
+smoking,outdoor,1
+dress,casual,1
+dress,dressy,2
+noise,quiet,0
+noise,average,1
+noise,loud,2
+noise,very loud,3
+cuisine,others,0
+cuisine,American,1
+cuisine,Mexican,2
+cuisine,Italian,3
+cuisine,Asian Fusion,4
+cuisine,Mediterranean,5
+cuisine,Chinese,6
+cuisine,Japanese,7
+cuisine,Thai,8
+cuisine,Korean,9
