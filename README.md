@@ -14,3 +14,11 @@ This recommender system will provide insight from current users to recommend res
 UPDATE: 
 
 Due to the size of the data and sparsity, I took a different approach for my project using the Yelp dataset. My goal is to create a recommender system that would give us insight as to whether a user would like a restaurant (greater than 3 stars) and if a user would give a rating greater than the business’ average star rating.
+
+Important Files:
+Milestone Report 1.docx - First progress report
+Milestone Report 2.docs - Second progress report
+Yelp_rec_sys.ipynb - Notebook
+Yelp Capstone.docx - Write up
+Yelp Capstone Project (1).pdf - Visuals
+
